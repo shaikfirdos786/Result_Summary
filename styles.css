@@ -70,6 +70,7 @@ td {
 
 }
 
+
 table {
     border-spacing: 0 15px;
     border-collapse: separate;
@@ -134,7 +135,7 @@ th:last-child {
     position: relative;
     top: 30px;
     left: 5%;
-    width: 290px;
+    width: 90%;
     height: 53px;
     border-style: none;
     border-radius: 40px;
